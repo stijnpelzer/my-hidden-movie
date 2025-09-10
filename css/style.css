@@ -1,0 +1,28 @@
+h1 {
+    color:red;
+    background-color: lightblue;
+    width: fit-content;
+}
+
+h2 {
+    color:orange;
+}
+
+.catgirls {
+    background-color: green;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px;
+    width: fit-content;
+    font-size: 150%;
+}
+
+.catgirls > p {
+    text-decoration: underline;
+}
+
+.catgirls > aside {
+    float: right;
+    background-color: lightgrey;
+    font-style: italic;
+}
